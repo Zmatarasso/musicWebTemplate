@@ -205,7 +205,7 @@ header, .container-scrolled {
 /* Background-color to the nav container. */
 nav { 
 	padding: .5em 0 .5em 0;
-	background-color: #eeeeee;
+	background-color: #000000;
 	border-bottom: .2em solid #000000;
 }
 
@@ -762,8 +762,8 @@ ul.pages-music li a {
 	cursor: pointer; 
 	text-transform: uppercase;
 	background: transparent;
-	border-color: #000;
-	color: #000;}
+	border-color: #fff;
+	color: #fff;}
   
 .form_settings .submit:hover { 
 	background-color: #121212;
@@ -873,7 +873,7 @@ ul.pages-music li a {
 	border: .094em solid white;
 	border-radius: 2em;
 	text-decoration: none;
-	background-color: rgba(51,58,86);
+	background-color: #000;
 	font-size: 1.15em;
 	padding: .875em 1.188em .875em 1.188em;
 }
