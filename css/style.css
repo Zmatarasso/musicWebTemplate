@@ -1196,6 +1196,7 @@ td, th {
 .flexbox-shows > div {
 	min-width: 33%;
 	padding: 10px;
+	border-color: white
 }
 
 }
