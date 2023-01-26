@@ -1052,7 +1052,7 @@ table {
 }
 
 td, th {
-    border: 1px solid #000000;
+    border: 1px solid #fff;
     font-size: 1.250em;
 	margin: 0 0 .6em 0;
 	line-height: 1.75em;
@@ -1066,7 +1066,7 @@ tr:nth-child(even) {
 }
 
 tr:nth-child(odd) {
-    background-color: #080808;
+    background-color: #020202;
 }
 
 .shows-text {
