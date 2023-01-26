@@ -256,7 +256,7 @@ nav ul li a, nav ul ul li a {
 
 /* Background color change on Hover */
 nav a:hover, nav li.selected a, nav li.selected a:hover { 
-	background-color: #121212; 
+	background-color: #010101; 
 	color: goldenrod;
 }
 	
@@ -651,7 +651,7 @@ ul.pages li a {
 
 ul.pages li a:hover, ul.pages li.selected a, ul.pages li.selected a:hover { 
 	color: goldenrod;
-	background-color: #121212;
+	background-color: #010101;
 }
 
 ul.pages p {
@@ -707,7 +707,7 @@ ul.pages-music li a {
 
 ul.pages-music li a:hover, ul.pages-music li.selected a, ul.pages-music li.selected a:hover { 
 	color: goldenrod;
-	background-color: #121212;
+	background-color: #010101;
 }
 
 ul.pages-music  p {
@@ -766,7 +766,7 @@ ul.pages-music li a {
 	color: #fff;}
   
 .form_settings .submit:hover { 
-	background-color: #121212;
+	background-color: #010101;
 	color: goldenrod;
 }
 
@@ -807,7 +807,7 @@ ul.pages-music li a {
 }
   
 .form_settings .submit:hover { 
-	background-color: #121212;
+	background-color: #010101;
 	color: goldenrod;
 }
 
@@ -887,7 +887,7 @@ ul.pages-music li a {
 }
 
 .go-btm:hover {
-	background-color: #121212;
+	background-color: #010101;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
@@ -1027,7 +1027,7 @@ ul.pages-music li a {
 	height: auto;
 	margin: -45px 35px auto 75px;
 	border-radius: 15px;
-	background-color: #121212; 
+	background-color: #010101; 
 }
 
 .playhead {
