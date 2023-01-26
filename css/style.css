@@ -803,8 +803,8 @@ ul.pages-music li a {
 	cursor: pointer; 
 	text-transform: uppercase;
 	background: transparent;
-	border-color: #000;
-	color: #000;
+	border-color: #fff;
+	color: #fff;
 }
   
 .form_settings .submit:hover { 
