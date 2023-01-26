@@ -256,7 +256,7 @@ nav ul li a, nav ul ul li a {
 /* Background color change on Hover */
 nav a:hover, nav li.selected a, nav li.selected a:hover { 
 	background-color: #121212; 
-	color: #fff;
+	color: goldenrod;
 }
 	
 nav li .down a {
@@ -336,14 +336,14 @@ nav .scroll {
 	font-size: 1em;
 	margin: .1em auto .1em auto;
 	padding: 4em 1.3em 0em 1.3em;
-	background-color: #f7f5e6;
+	background-color: #000000;
 } 
 
 .site_content_index { 
 	font-size: 1em;
 	margin: .1em auto .1em auto;
 	padding: 2em 1.3em 0em 1.3em;
-	background-color: #f7f5e6;
+	background-color: #000000;
 } 
 
 /* Padding for the page content */
@@ -406,14 +406,14 @@ h3 {
 	width: auto;
 	margin: .1em auto .1em auto;
 	padding: 2em .7em 1em .7em;
-	background-color: #f7f5e6;
+	background-color: #000000;
 } 
 
 .site_content_index { 
 	font-size: 1em;
 	margin: .1em auto .1em auto;
 	padding: 2em 1.3em 1em 1.3em;
-	background-color: #f7f5e6;
+	background-color: #000000;
 } 
 
 /* Padding for the page content */
@@ -650,7 +650,7 @@ ul.pages li a {
 }
 
 ul.pages li a:hover, ul.pages li.selected a, ul.pages li.selected a:hover { 
-	color: #fff;
+	color: goldenrod;
 	background-color: #121212;
 }
 
@@ -706,7 +706,7 @@ ul.pages-music li a {
 }
 
 ul.pages-music li a:hover, ul.pages-music li.selected a, ul.pages-music li.selected a:hover { 
-	color: #fff;
+	color: goldenrod;
 	background-color: #121212;
 }
 
@@ -767,7 +767,7 @@ ul.pages-music li a {
   
 .form_settings .submit:hover { 
 	background-color: #121212;
-	color: #fff;
+	color: goldenrod;
 }
 
 @media screen and (max-width:640px) {
@@ -808,7 +808,7 @@ ul.pages-music li a {
   
 .form_settings .submit:hover { 
 	background-color: #121212;
-	color: #fff;
+	color: goldenrod;
 }
 
 }
@@ -846,7 +846,7 @@ ul.pages-music li a {
 }
 
 .modal-content p {
-    color: black;
+    color: white;
 }
 
 /* The Close Button */
@@ -858,7 +858,7 @@ ul.pages-music li a {
 }
 
 .close:hover, .close_error:hover, .close:focus, .close_error:focus {
-    color: #000;
+    color: goldenrod;
     text-decoration: none;
     cursor: pointer;
 }
@@ -1061,7 +1061,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-    background-color: #f7f5e6;
+    background-color: #000000;
 }
 
 tr:nth-child(odd) {
@@ -1245,7 +1245,7 @@ div li.hide {
 	color: black;
 	position: relative;
 	overflow: hidden;
-	border: 4px solid #f7f5e6;
+	border: 4px solid #000000;
 	padding: 1em;
 }
 
