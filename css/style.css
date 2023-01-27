@@ -201,6 +201,7 @@ header, .container-scrolled {
 	margin: 0 auto;
 	z-index: 150;
 	height: 60px;
+	margin-top: 16px;
 	margin-bottom: -60px;
 }
 
