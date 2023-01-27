@@ -56,7 +56,6 @@ header {
 	position: relative;
 	max-width: 80%;
 	width: 80%;
-	background-image: url("../pictures/misc/blahsum_banner_crop.jpg")
 }
 
 #logo h1 {
@@ -905,7 +904,7 @@ ul.pages-music li a {
 
 .hero {
 	background-image: url("../pictures/misc/hero-img.jpg");
-	height: 380px;
+	height: 380px;F
 	z-index: 100;
 	margin-bottom: -46px;
 	border-bottom: .2em solid #000000;
