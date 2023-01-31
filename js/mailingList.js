@@ -1,5 +1,5 @@
 var $form = $('form#email-form'),
-    url = 'https://script.google.com/macros/s/AKfycbz0p3AaSvvG2muFU1jLUQmaRBK3aSRxcF-_gcGrnIweDdfZc8KS/exec'
+    url = 'https://script.google.com/macros/s/AKfycbxutbO4u4y__KT7b0MEFPQknljMxoWeKGV4BuRKMdcb9WI6TRbUqiAq0wuJU6M63pwr/exec'
 
 $("input[type$='button']").on('click', function(e) {
     var x = document.forms["email-form"]["email"].value;
