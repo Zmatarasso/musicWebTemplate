@@ -1275,12 +1275,12 @@ div li.hide {
 }
 
 .a {
-	background-image: url("../pictures/gallery/BlahsumScorp01.jpg");
+	background-image: url("../pictures/misc/hero-img.jpg");
 	background-size: cover;
 }
 
 .b {
-	background-image: url("../pictures/gallery/BlahsumTeaFactory01.jpg");
+	background-image: url("../pictures/misc/BlahsumWonderville-22.jpg");
 	background-size: cover;
 }
 
@@ -1303,19 +1303,18 @@ div li.hide {
 	background-image: url("../pictures/gallery/BlahsumFinals-23.jpg");
 	background-size: cover;
 }
-
 .g {
-  	background-image: url("../pictures/blog/song.jpg");
-  	background-size: cover;
+	background-image: url("../pictures/gallery/BlahsumScorp01.jpg");
+	background-size: cover;
 }
 
 .h {
-  	background-image: url("../pictures/blog/edm.jpg");
-  	background-size: cover;
+	background-image: url("../pictures/gallery/BlahsumTeaFactory01.jpg");
+	background-size: cover;
 }
 
 .i {
-  	background-image: url("../pictures/blog/eq.jpg");
+  	background-image: url("../pictures/gallery/BlahsumTeaFactory02.jpg");
   	background-size: cover;
 }
 
