@@ -37,6 +37,11 @@ body {
 	z-index: 50;
 }
 
+.postAmericana {
+	text-align: center; 
+	font-size: 1.3em;
+}
+
 /********************************************** HEADER ********************************************/
 
 /* Center the Header */
